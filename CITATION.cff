@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Gate-Level Hardware Trojan Detection with Graph Neural Networks"
+type: software
+authors:
+  - family-names: Ma
+    given-names: Peijun
+  - family-names: Li
+    given-names: Jie
+  - family-names: Liu
+    given-names: Hongjin
+  - family-names: Shi
+    given-names: Jiangyi
+  - family-names: Zhang
+    given-names: Shaolin
+  - family-names: Pan
+    given-names: Weitao
+  - family-names: Hao
+    given-names: Yue
+repository-code: "https://github.com/panweitao/gate-level-ht-detection-gnn"
+license: Apache-2.0
+version: 1.0.0
+date-released: 2026-11-17
+preferred-citation:
+  type: article
+  title: "Hardware Trojan Detection Methods for Gate-Level Netlists Based on Graph Neural Networks"
+  authors:
+    - family-names: Ma
+      given-names: Peijun
+    - family-names: Li
+      given-names: Jie
+    - family-names: Liu
+      given-names: Hongjin
+    - family-names: Shi
+      given-names: Jiangyi
+    - family-names: Zhang
+      given-names: Shaolin
+    - family-names: Pan
+      given-names: Weitao
+    - family-names: Hao
+      given-names: Yue
+  year: 2025
+  journal: "IEEE Transactions on Computers"
+  volume: 74
+  issue: 5
+  start: 1470
+  end: 1481
+  doi: "10.1109/TC.2025.3533085"
+  url: "https://doi.org/10.1109/TC.2025.3533085"

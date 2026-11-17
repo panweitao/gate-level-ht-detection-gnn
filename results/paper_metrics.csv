@@ -1,0 +1,5 @@
+dataset,model,penalty_scale,tpr,tnr,f1,source
+SAED,GraphSAGE-LSTM,0.3,0.8806,0.9996,0.9095,Paper Table V
+LEDA-combinational,GraphSAGE-POOL,0.3,0.8850,0.9999,0.9217,Paper Table VIII
+LEDA-sequential,GraphSAGE-LSTM,0.3,0.9825,0.9995,0.9859,Paper Table VIII
+EthernetMAC10GE,GraphSAGE-POOL,not stated,0.8462,1.0000,0.8524,Paper Table IX
